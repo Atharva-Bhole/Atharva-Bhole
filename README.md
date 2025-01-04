@@ -55,9 +55,9 @@ I am a Computer Engineering student with hands-on experience in software develop
 
 ## 📫 Connect with Me  
 - **Email**: [atharvabholework@gmail.com](mailto:atharvabholework@gmail.com)  
-- **LinkedIn**: [Atharva Bhole](#)  
+- **LinkedIn**: [Atharva Bhole](https://www.linkedin.com/in/atharva-bhole-a5954b251)  
 - **GitHub**: [Atharva Bhole](#)  
-- **LeetCode**: [Atharva Bhole](#)  
+- **LeetCode**: [Atharva Bhole](https://leetcode.com/Atharva_Bhole/)  
 
 ---
 
