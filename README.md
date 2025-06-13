@@ -24,7 +24,7 @@ I am a Computer Engineering student with hands-on experience in software develop
 ## 🛠 Work Experience  
 
 ### 💼 **Software Development Intern**  
-**Arohi Softwares** | *August 2024 - Present*  
+**Arohi Softwares** | *August 2024 - Nov 2024*  
 - Designed and implemented a database for inventory management using PostgreSQL.  
 - Shifted tech stacks dynamically from Python to the MERN stack.  
 - Enhanced project performance by **45%** through code optimization.  
