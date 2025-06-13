@@ -1,64 +1,98 @@
-# 👋 Hi, I'm Atharva Bhole!  
+# 👋 Hi, I'm Atharva Bhole
 
-🌟 **Computer Engineering Student** | 💻 **Software Developer** | 🤖 **AI & ML Enthusiast**  
-
----
-
-## 👨‍🎓 About Me  
-I am a Computer Engineering student with hands-on experience in software development, database design, and machine learning. My passion lies in solving complex problems, optimizing performance, and driving innovation through technology.  
-
-- 🏫 **Education**:  
-  - **B.E in Computer Engineering (2022-2026)**  
-    - Sandip Institute of Technology and Research Centre  
-    - **GPA**: 9.27/10 (Topper of the Institute)  
-    - Research: *Self-Driving Car using Deep Learning* and *Huntington’s Disease Prediction using MRI Images*  
-
-- 🔧 **Skills**:  
-  - **Frontend**: JavaScript, HTML, CSS, React, Angular  
-  - **Backend**: Node.js, Python, Flask  
-  - **Databases**: PostgreSQL, SQL/NoSQL  
-  - **Other**: Data Structures and Algorithms, Machine Learning, Web Development  
+🎓 **Computer Engineering Student**  
+🔍 Passionate about **AI in Healthcare**, **Backend Development**, and building **Real-Time Intelligent Systems**  
+🌐 Exploring the intersection of **Software Engineering**, **Machine Learning**, and **Cloud Infrastructure**
 
 ---
 
-## 🛠 Work Experience  
+## 🧠 Profile Summary
 
-### 💼 **Software Development Intern**  
-**Arohi Softwares** | *August 2024 - Nov 2024*  
-- Designed and implemented a database for inventory management using PostgreSQL.  
-- Shifted tech stacks dynamically from Python to the MERN stack.  
-- Enhanced project performance by **45%** through code optimization.  
-- Led a team of 7 to deliver a project on time, following the MVC architecture for readability and scalability.  
+I'm a motivated and results-driven **Software & Machine Learning Engineer** with hands-on experience in:
 
-### 💼 **Machine Learning Intern**  
-**Cognifyz Technologies** | *June 2024 - July 2024*  
-- Developed a recommendation system using Scikit-learn.  
-- Improved model accuracy from **67% to 89%** using Decision Trees.  
-- Performed geographical analysis of user trends to identify preferences.  
+- Scalable real-time web applications  
+- Predictive machine learning models  
+- Backend API development  
+- Cloud-based deployments  
 
----
-
-## 📜 Certifications  
-- **Mastering Basics of Node.js** - Coding Ninjas  
-- **Data Science** - Simplilearn  
-- **Python Programming** - Udemy  
-- **Linear and Logistic Regression** - Udemy  
+**Tech Stack:**  
+`Python` | `Flask` | `TensorFlow` | `React` | `Node.js` | `TypeScript` | `MongoDB` | `PostgreSQL`  
+**Specialties:**  
+Database Optimization | API Development | AI-driven Solutions | System Design | Microservices Architecture
 
 ---
 
-## 🌟 Extracurricular Activities  
-- Participated in academic research on AI and ML with teaching staff.  
-- Contributed to open-source projects and organized workshops on web development.  
-- **Hackathons**: Secured 2nd place in CodeSprint for building a real-time expense tracker using React and Firebase.  
+## 💼 Work Experience
+
+### 🔧 Web Developer — *Univoc Foundation* (Jan 2025)
+- Built a backend system for the official website using MongoDB and implemented load balancing techniques.
+- Designed isolated admin dashboards and databases for improved performance and control.
+
+### 💻 Full-Stack Developer — *Arohi Software* (Aug 2024 – Nov 2024)
+- Developed a cloud-based Dairy Management Web App using **Flask** and **Aiven (AWS)**.
+- Optimized database queries by 30% and delivered real-time dashboards for expense tracking.
+
+### 🤖 Machine Learning Intern — *Cognifyz Technologies* (Jun 2024 – Jul 2024)
+- Built a recommendation system using **scikit-learn** with 89% accuracy.
+- Implemented decision trees and ensemble methods for restaurant ranking and classification.
 
 ---
 
-## 📫 Connect with Me  
-- **Email**: [atharvabholework@gmail.com](mailto:atharvabholework@gmail.com)  
-- **LinkedIn**: [Atharva Bhole](https://www.linkedin.com/in/atharva-bhole-a5954b251)  
-- **GitHub**: [Atharva Bhole](#)  
-- **LeetCode**: [Atharva Bhole](https://leetcode.com/Atharva_Bhole/)  
+## 🚀 Projects
+
+### 🧬 Huntington’s Disease Prediction (Nov 2024 – Jan 2025)
+- Designed a 3D CNN Model with **TensorFlow** for MRI-based disease diagnosis.
+- Combined raw 3D image data with text-based features to improve diagnostic accuracy.
+
+### 🏥 SepShield: Real-Time Sepsis Detection System (Jan 2025 – Apr 2025)
+- Developed an AI model that predicts septic shock 6 hours in advance with 87% accuracy.
+- Engineered a **microservices backend** in **Flask** and **TypeScript** for secure model deployment.
+
+### 🎫 Event Management Using QR Code (Jun 2024)
+- Built a web-based event registration system using **Flask**, **QR Code**, **MySQL**, and **Bootstrap**.
+- Implemented session-based tracking to improve user experience during registration.
+
+### 💬 Chatty: Real-Time Chat Web App
+- Integrated **Cloudinary** for media storage and **Socket.io** for real-time communication.
+- Used **MongoDB Atlas** for managing cloud-hosted databases.
 
 ---
 
-Feel free to explore my repositories and projects! Contributions, feedback, and collaborations are always welcome. 🚀
+## 🏆 Achievements
+
+- 🥇 Finalist at **DIPEX State Level Competition** – Healthcare Innovation
+- 🎓 Academic Topper – 1st & 2nd Year
+- 👨‍💻 Runner-up – Blind Coding Contest (Inter-Institute Event)
+
+---
+
+## 📚 Education
+
+**B.E. Computer Engineering**  
+*Sandip Institute of Technology and Research Centre*  
+📅 2022 – 2026  
+🎓 GPA: **9.14 / 10** (Recent)  
+📘 Notable Coursework: DSA, DBMS, OS, Web Technologies, Data Science, AI
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** Python, TypeScript, SQL  
+- **Databases:** MongoDB, PostgreSQL  
+- **Tools & Frameworks:** Flask, Express.js, TensorFlow, scikit-learn, React, Node.js  
+- **Concepts:** Microservices, MVC, DBMS, SDLC, DSA, Cloud Deployments  
+- **Soft Skills:** Problem-Solving, Teamwork, Competitive Programming
+
+---
+
+## 📫 Let's Connect
+
+- **Email:** atharvabholework@gmail.com  
+- **Phone:** +91 8208868362  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-link)  
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/your-username)
+
+---
+
+⭐ *Thank you for visiting my GitHub! Let's build something amazing together.*
