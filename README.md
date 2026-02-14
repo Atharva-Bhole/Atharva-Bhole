@@ -16,13 +16,17 @@ I'm a motivated and results-driven **Software & Machine Learning Engineer** with
 - Cloud-based deployments  
 
 **Tech Stack:**  
-`Python` | `Flask` | `TensorFlow` | `React` | `Node.js` | `TypeScript` | `MongoDB` | `PostgreSQL`  
+`Python` | `Flask` | `FastAPI` | `TensorFlow` | `React` | `Node.js` | `TypeScript` | `MongoDB` | `PostgreSQL` | `NextJS` | `Java Spring Boot` | `Agents Development`
 **Specialties:**  
 Database Optimization | API Development | AI-driven Solutions | System Design | Microservices Architecture
 
 ---
 
 ## 💼 Work Experience
+
+### 🧑‍💻 Full Stack Intern - *Techolution* (Nov 2025 - Present)
+- Building scalable internal products using MicroFrontend Architectures
+- Designing architecturally scalable solutions and UI components for improved performance 
 
 ### 🔧 Web Developer — *Univoc Foundation* (Jan 2025)
 - Built a backend system for the official website using MongoDB and implemented load balancing techniques.
