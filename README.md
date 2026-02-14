@@ -94,8 +94,8 @@ Database Optimization | API Development | AI-driven Solutions | System Design | 
 
 - **Email:** atharvabholework@gmail.com  
 - **Phone:** +91 8208868362  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-link)  
-- [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/your-username)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/atharva-bhole-a5954b251/)  
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Atharva-Bhole)
 
 ---
 
