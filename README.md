@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Atharva Bhole
 
 🎓 **Computer Engineering Student**  
-🔍 Passionate about **AI in Healthcare**, **Backend Development**, and building **Real-Time Intelligent Systems**  
+🔍 Passionate about **AI Development**, **Backend Development**, and building **Real-Time Intelligent Systems**  
 🌐 Exploring the intersection of **Software Engineering**, **Machine Learning**, and **Cloud Infrastructure**
 
 ---
@@ -16,7 +16,7 @@ I'm a motivated and results-driven **Software & Machine Learning Engineer** with
 - Cloud-based deployments  
 
 **Tech Stack:**  
-`Python` | `Flask` | `FastAPI` | `TensorFlow` | `React` | `Node.js` | `TypeScript` | `MongoDB` | `PostgreSQL` | `NextJS` | `Java Spring Boot` | `Agents Development`
+`Python` | `Flask` | `FastAPI` | `TensorFlow` | `React` | `Node.js` | `TypeScript` | `MongoDB` | `PostgreSQL` | `NextJS` | `Java Spring Boot` |
 **Specialties:**  
 Database Optimization | API Development | AI-driven Solutions | System Design | Microservices Architecture
 
